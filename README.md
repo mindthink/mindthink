@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kevin chen</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mindthink" alt="mindthink" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kevin chen" target="blank"><img src="https://img.shields.io/twitter/follow/kevin chen?logo=twitter&style=for-the-badge" alt="kevin chen" /></a> </p>
+<p align="left"> <a href="https://twitter.com/chenshuaifei" target="blank"><img src="https://img.shields.io/twitter/follow/kevin chen?logo=twitter&style=for-the-badge" alt="kevin chen" /></a> </p>
 
 - 📝 I regularly write articles on [mindthink.me](mindthink.me)
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kevin chen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kevin chen" height="30" width="40" /></a>
+<a href="https://twitter.com/chenshuaifei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kevin chen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
