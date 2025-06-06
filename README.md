@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm kevin chen</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mindthink" alt="mindthink" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/chenshuaifei" target="blank"><img src="https://img.shields.io/twitter/follow/kevin chen?logo=twitter&style=for-the-badge" alt="kevin chen" /></a> </p>
 
 - 📝 I regularly write articles on [mindthink.me](mindthink.me)
 
