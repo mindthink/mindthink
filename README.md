@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [mindthink.me](mindthink.me)
 
-- 📫 How to reach me **270025453@qq.com**
+- 📫 How to reach me **admin@mindthink.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
