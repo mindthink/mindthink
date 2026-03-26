@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kevin chen</h1>
 
 
-- 📝 I regularly write articles on [mindthink.me](mindthink.me)
+- 📝 I regularly write articles on [mindthink.me](www.mindthink.me)
 
 - 📫 How to reach me **admin@mindthink.me**
 
