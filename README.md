@@ -23,3 +23,12 @@
 - 🔭 I’m currently focused on developing **Autonomous Mobile Robots & Autonomous Driving systems**, with a deep passion for **Physical AI** and **Spatial Intelligence**.
 - 👨‍💻 Dedicated to bridging the gap between robust embedded systems and scalable enterprise architectures.
 - 📝 I regularly write technical articles on my blog: [mindthink.me](http://www.mindthink.me)
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mindthink/mindthink/output/github-snake-dark.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/mindthink/mindthink/output/github-snake.svg" />
+  </picture>
+</p>
